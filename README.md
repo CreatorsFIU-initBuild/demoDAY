@@ -1,3 +1,6 @@
+
+<img width="1265" alt="homepage" src="https://github.com/user-attachments/assets/57f239dd-301f-4346-9fcb-d00a614b2456" />
+
 # **Design Document**
 
 Welcome to the main repository for **CreatorsFIU** – a virtual marketplace designed exclusively for the FIU community. This repository contains the core source code for both the **frontend** (React.js) and **backend** (Node.js & Express.js), along with essential documentation.
@@ -78,9 +81,6 @@ To access these documents:
 3. For any updates, ensure proper version control by committing your changes.<br>
 [Needs to create]
 
-** Look into:
-[Amazon](https://www.amazon.com/)
-[Thinkific](https://www.thinkific.com/)
 ---
 
 For additional resources and up-to-date planning, refer to [Notion page](https://www.notion.so/initBuild-Web-Dev-187d075b7d718072bd49cf3aa65f65a2) for team collaboration, project management, and detailed instructions.
